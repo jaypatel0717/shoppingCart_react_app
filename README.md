@@ -1,6 +1,6 @@
 ### Simple Shopping Cart React app using localStorage of browser
 
--> This is very simple shopping cart app that uses localStorage of your browser for data.
+-> This is very simple shopping cart app that uses localStorage of your browser for data. <br/>
 -> You can increment and decrement the quantity of product.
 
 #### Using Technologies
