@@ -1,5 +1,8 @@
 ### Simple Shopping Cart React app using localStorage of browser
 
+<br/>
+![Alt text](https://github.com/jaypatel0717/google_clone/blob/master/src/Image/homescreen.png)
+
 -> This is very simple shopping cart app that uses localStorage of your browser for data. <br/>
 -> You can change the quantity of product and see grand total changes as well. <br/>
 -> Open [shopping cart](https://main.d3laab1ebgnsvf.amplifyapp.com/) to view it in the browser.
@@ -9,8 +12,28 @@
 1. React JS
 2. LocalStorage of browser for data
 
-#### Commands:
-In the project directory, you can run:
+#### To start this application
+
+```
+Go to -> cd shoppingCart_react_app
+
+npm install
+npm start
+```
+
+#### Structure of Componenets :
+
+- App
+  - Cart
+- CartItem
+
+#### CSS :
+
+1. App.css
+2. Cart.css
+3. CartItem.css
+
+#### Create new React application:
 
 ```
 npx create-react-app my-app
