@@ -1,7 +1,8 @@
 ### Simple Shopping Cart React app using localStorage of browser
 
 <br/>
-![Alt text](https://github.com/jaypatel0717/google_clone/blob/master/src/Image/homescreen.png)
+![Alt text](https://github.com/jaypatel0717/shoppingCart_react_app/blob/main/public/homescreen.png)
+<br/>
 
 -> This is very simple shopping cart app that uses localStorage of your browser for data. <br/>
 -> You can change the quantity of product and see grand total changes as well. <br/>
