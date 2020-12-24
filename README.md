@@ -10,6 +10,7 @@
 2. LocalStorage of browser for data
 
 #### Commands:
+In the project directory, you can run:
 
 ```
 npx create-react-app my-app
