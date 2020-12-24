@@ -1,5 +1,5 @@
 ### Simple Shopping Cart React app using localStorage of browser
-
+<br/>
 
 
 ![Alt text](https://github.com/jaypatel0717/shoppingCart_react_app/blob/main/public/homescreen.png)
